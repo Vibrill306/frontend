@@ -850,7 +850,7 @@ h5 {
 
 /* / instagram icon / */
 .icons-footer a:nth-of-type(3) i {
-    background: rgba(0, 0, 0, 0) url('/images/insta-bg.gif') no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url('images/insta-bg.gif') no-repeat scroll 0 0;
 }
 
 /* / linkedin icon / */
